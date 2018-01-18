@@ -2,7 +2,6 @@ LOCAL_PATH := $(call my-dir)
 
 include $(CLEAR_VARS)
 
-#TARGET_ARCH_ABI := armeabi-v7a
 #$(warning " TARGET_ARCH_ABI is $(TARGET_ARCH_ABI)")
 LOCAL_MODULE := luajit
 LOCAL_SRC_FILES := $(LOCAL_PATH)/$(TARGET_ARCH_ABI)/libluajit.a
