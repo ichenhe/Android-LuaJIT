@@ -6,6 +6,8 @@ Use Lua with LuaJIT in Android.
 
 blog: https://www.jianshu.com/p/3aee06f8039f
 
+> **This project is no longer maintained because the [LuaJIT Project](https://luajit.org/) is no longer updated.**
+
 # 依赖
 
 ```
